@@ -1,0 +1,22 @@
+3
+--
+1234
+Foo Bar
+Sophomore
+3.5
+Undeclared
+4321
+--
+5678
+Steve
+Senior
+4.5
+CPSC
+4321
+--
+12345
+Bob
+Sophomore
+1.23
+Business
+765

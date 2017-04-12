@@ -1,0 +1,32 @@
+Vince Carpino & Tyler Andrews
+Assignment 5
+
+References:
+stackoverflow.com
+cplusplus.com
+
+Notes:
+Rollback does not work.
+Student file format is:
+    # students in tree
+    --
+    id
+    name
+    level
+    gpa
+    major
+    advisor id
+    --
+    *repeats same format*
+
+Faculty file format is:
+    # faculty
+    --
+    id
+    name
+    level
+    dept
+    # advisees (n)
+    n lines of advisee ids
+    --
+    *repeats same format*
